@@ -1,0 +1,24 @@
+{
+  "name": "twitter-contest",
+  "version": "1.0.0",
+  "description": "A simple contest twitter bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moulmandev/twitter-contest-js.git"
+  },
+  "keywords": [
+    "bot",
+    "twitter",
+    "contest"
+  ],
+  "author": "Moulman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moulmandev/twitter-contest-js/issues"
+  },
+  "homepage": "https://github.com/moulmandev/twitter-contest-js#readme"
+}
